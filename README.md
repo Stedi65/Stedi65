@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stedi65
+- 👋 Hi, I’m Stephan@Stedi65
 - 👀 I’m interested in computing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects for beginners
